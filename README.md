@@ -1,7 +1,8 @@
 David Guevremont's Dotfiles
 
-- This is mostly to have a good understanding and keep a not well maintain
-suite of references, aliases, atom packages list, iterm config/theme.
+- This is mostly to have a good understanding of how a dot-file config could be automated, and keep a not so well maintain a set of shell references, aliases, atom packages list, iterm config/theme.
+
+Maybe more elaboration on this suite in the future.
 
 <!-- This is a collection of dotfiles and scripts I use for customizing OS X to my liking and setting up the software development tools I use on a day-to-day basis. They should be cloned to your home directory so that the path is `~/dotfiles/`.  The included setup script creates symlinks from your home directory to the files which are located in `~/dotfiles/`.
 
