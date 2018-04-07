@@ -1,4 +1,4 @@
-# David Guevremont's Dotfiles
+David Guevremont's Dotfiles
 
 - Commented section needs to be removed.
 
@@ -92,7 +92,7 @@ This is definitely a good text "hackable" editor, really not an IDE, but for bas
 
 I actively watch the following repository and add the best changes to this repository:
 
-- [GitHub ❤ ~/](http://dotfiles.github.com/)
+- [GitHub ❤ ~/](http://dotfiles.github.com/) <= github dotfile portal
 
 ## License
 
